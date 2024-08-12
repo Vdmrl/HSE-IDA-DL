@@ -1,1 +1,1 @@
-HSE IAD Deep Learning Practical Tasks
+HSE IAD Deep Learning Projects
